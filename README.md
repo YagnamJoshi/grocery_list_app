@@ -19,11 +19,6 @@ A simple, offline-first **Grocery List App** built using **Java** and **Android 
 
 ---
 
-## 📸 Screenshots
-
-*(Insert screenshots here, if available — use Markdown or GitHub drag-and-drop)*
-
----
 
 ## ⚙️ Built With
 
